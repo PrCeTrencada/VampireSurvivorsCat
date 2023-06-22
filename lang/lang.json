@@ -369,7 +369,11 @@
       "options_mobile_faq": "手游版常见问题",
       "options_open": "打开",
       "dlc_store_unsupported": "这台设备不支持 DLC 商店， 因为当前游戏并非通过 Google Play 商店下载。",
-      "options_screenShake": "武器 屏幕抖动"
+      "options_screenShake": "武器 屏幕抖动",
+      "stageConfirm_randomEvents": "随机\n事件",
+      "stageConfirm_randomLevels": "随机\n升级",
+      "stageConfirm_twitchIsOn": "由Twitch聊天\n控制\n事件与升级。",
+      "stageConfirm_randomName": "随机化"
     }
   },
   "zh-TW": {
@@ -753,7 +757,11 @@
       "options_mobile_faq": "Mobile FAQ",
       "options_open": "Open",
       "dlc_store_unsupported": "DLC Store is not supported on this device as the game was not downloaded via the Google Play Store.",
-      "options_screenShake": "Weapons ScreenShake"
+      "options_screenShake": "Weapons ScreenShake",
+      "stageConfirm_randomEvents": "Random\nEvents",
+      "stageConfirm_randomLevels": "Random\nLevelUp",
+      "stageConfirm_twitchIsOn": "Events and LevelUp\ncontrolled by\nTwitch chat.",
+      "stageConfirm_randomName": "Randomize"
     }
   },
   "fi": {
@@ -1119,7 +1127,11 @@
       "options_mobile_faq": "FAQ mobile",
       "options_open": "Ouvrir",
       "dlc_store_unsupported": "La boutique de DLC ne fonctionne pas sur cet appareil, car vous n'avez pas téléchargé le jeu sur le Google Play Store.",
-      "options_screenShake": "Secousses de l'écran"
+      "options_screenShake": "Secousses de l'écran",
+      "stageConfirm_randomEvents": "Événements\naléatoires",
+      "stageConfirm_randomLevels": "Sélections du niveau sup\naléatoires",
+      "stageConfirm_twitchIsOn": "Événements et sélections\ndu niveau sup\nvia le chat Twitch.",
+      "stageConfirm_randomName": "Randomiser"
     }
   },
   "de": {
@@ -1479,7 +1491,11 @@
       "options_mobile_faq": "Mobile-FAQ",
       "options_open": "Öffnen",
       "dlc_store_unsupported": "Der DLC-Store wird auf diesem Gerät nicht unterstützt, da das Spiel nicht über den Google Play Store heruntergeladen wurde.",
-      "options_screenShake": "Wackeln bei der Waffen-Auswahl"
+      "options_screenShake": "Wackeln bei der Waffen-Auswahl",
+      "stageConfirm_randomEvents": "Zufalls-\nevents",
+      "stageConfirm_randomLevels": "Zufalls-\nLevelaufstieg",
+      "stageConfirm_twitchIsOn": "Events und Levelaufstiege\nwerden vom\nTwitch-Chat gesteuert.",
+      "stageConfirm_randomName": "Randomisieren"
     }
   },
   "el": {
@@ -1851,7 +1867,11 @@
       "options_mobile_faq": "FAQ mobile",
       "options_open": "Apri",
       "dlc_store_unsupported": "Il Negozio DLC non è supportato su questo dispositivo perché il gioco non è stato scaricato dal Google Play Store.",
-      "options_screenShake": "Vibrazione schermo su armi"
+      "options_screenShake": "Vibrazione schermo su armi",
+      "stageConfirm_randomEvents": "Eventi\ncasuali",
+      "stageConfirm_randomLevels": "Nuovo livello\\casuale",
+      "stageConfirm_twitchIsOn": "Eventi e Nuovi livelli\ncontrollati dalla\nchat di Twitch.",
+      "stageConfirm_randomName": "Rendi Casuale"
     }
   },
   "ja": {
@@ -2211,7 +2231,11 @@
       "options_mobile_faq": "モバイル端末用「よくある質問」",
       "options_open": "開く",
       "dlc_store_unsupported": "このゲームがGoogle Playストアを通してダウンロードされなかったため、 この端末はDLCストアに対応していません。",
-      "options_screenShake": "武器画面シェイク"
+      "options_screenShake": "武器画面シェイク",
+      "stageConfirm_randomEvents": "ランダム\nイベント",
+      "stageConfirm_randomLevels": "ランダム\nレベルアップ",
+      "stageConfirm_twitchIsOn": "イベントとレベルアップを\nTwitchチャットで\n制御。",
+      "stageConfirm_randomName": "ランダム化"
     }
   },
   "ko": {
@@ -2564,14 +2588,18 @@
       "save_data_corrupted": "저장 데이터 손상",
       "enable_ads_mechanics": "보너스 광고 메커니즘 활성화",
       "show_stage_progression": "스테이지 진행도 표시",
-      "Matt's Code Row": "코드 사본",
+      "Matt's Code Row": "코드 복사",
       "weaponLevelUp_xpDecreased": "XP 획득이 %0% 감소합니다.\n",
       "dlc_owned": "DLC 소유",
       "fetching_save_data": "저장된 데이터를 불러오는 중",
       "options_mobile_faq": "모바일 FAQ",
       "options_open": "열기",
       "dlc_store_unsupported": "해당 기기의 게임은 Google Play 스토어에서 다운받지 않았으므로 DLC 상점이 지원되지 않습니다.",
-      "options_screenShake": "무기 화면쉐이크"
+      "options_screenShake": "무기 화면쉐이크",
+      "stageConfirm_randomEvents": "랜덤\n이벤트",
+      "stageConfirm_randomLevels": "랜덤\n레벨업",
+      "stageConfirm_twitchIsOn": "이벤트와 레벨업은\n트위치 챗으로\n제어됩니다.",
+      "stageConfirm_randomName": "무작위화"
     }
   },
   "no": {
@@ -2937,7 +2965,11 @@
       "options_mobile_faq": "Wersja mobilna: często zadawane pytania",
       "options_open": "Otwórz",
       "dlc_store_unsupported": "Sklep DLC nie jest obsługiwany na tym urządzeniu, ponieważ gra nie została pobrana przez sklep Google Play.",
-      "options_screenShake": "ScreenShake broni"
+      "options_screenShake": "ScreenShake broni",
+      "stageConfirm_randomEvents": "Losowe\nwydarzenia",
+      "stageConfirm_randomLevels": "Losowe\nzdobywanie poziomów",
+      "stageConfirm_twitchIsOn": "Wydarzenia i zdobywanie poziomów\nkontrolowane przez\nchat Twitch.",
+      "stageConfirm_randomName": "Randomizować"
     }
   },
   "pt": {
@@ -3303,7 +3335,11 @@
       "options_mobile_faq": "Perguntas frequentes – Dispositivos móveis",
       "options_open": "Abrir",
       "dlc_store_unsupported": "A Loja de DLC não é compatível com este dispositivo, pois o jogo não foi baixado através da Google Play Store.",
-      "options_screenShake": "Tremor de tela (armas)"
+      "options_screenShake": "Tremor de tela (armas)",
+      "stageConfirm_randomEvents": "Eventos\nAleatórios",
+      "stageConfirm_randomLevels": "Nível+\nAleatório",
+      "stageConfirm_twitchIsOn": "Eventos e Nível+\ncontrolados pelo\nchat da Twitch.",
+      "stageConfirm_randomName": "Aaleatório"
     }
   },
   "ro": {
@@ -3669,7 +3705,11 @@
       "options_mobile_faq": "Вопросы и ответы для мобильной версии",
       "options_open": "Открыть",
       "dlc_store_unsupported": "Магазин дополнений недоступен на этом устройстве, так как игра загружена не из Google Play Store.",
-      "options_screenShake": "Тряска экрана оружия"
+      "options_screenShake": "Тряска экрана оружия",
+      "stageConfirm_randomEvents": "Случайные\nсобытия",
+      "stageConfirm_randomLevels": "Случайное\nповышение ур.",
+      "stageConfirm_twitchIsOn": "События и повышения\nур., управляемые\nчатом Twitch.",
+      "stageConfirm_randomName": "Рандомизировать"
     }
   },
   "es": {
@@ -4029,7 +4069,11 @@
       "options_mobile_faq": "Preguntas frecuentes de la versión móvil",
       "options_open": "Abrir",
       "dlc_store_unsupported": "La tienda de contenido descargable no es compatible con este dispositivo porque el juego no se descargó mediante Google Play Store.",
-      "options_screenShake": "Vibración de pantalla por armas"
+      "options_screenShake": "Vibración de pantalla por armas",
+      "stageConfirm_randomEvents": "Sucesos\naleatorios",
+      "stageConfirm_randomLevels": "Subida de nivel\naleatoria",
+      "stageConfirm_twitchIsOn": "Subida de nivel y sucesos\ncontrolados por\nel chat de Twitch.",
+      "stageConfirm_randomName": "Aleatorizar"
     }
   },
   "es-419": {
@@ -4407,7 +4451,11 @@
       "options_mobile_faq": "Mobil SSS",
       "options_open": "Aç",
       "dlc_store_unsupported": "Oyun Google Play Store üzerinden indirilmediğinden DLC Mağazası bu cihazda desteklenmiyor.",
-      "options_screenShake": "Silahlar EkranTitreşimi"
+      "options_screenShake": "Silahlar EkranTitreşimi",
+      "stageConfirm_randomEvents": "Rastgele\nOlaylar",
+      "stageConfirm_randomLevels": "Rastgele\nSeviyeAtlama",
+      "stageConfirm_twitchIsOn": "Olaylar ve SeviyeAtlama\nTwitch sohbeti\ntarafından kontrol edilir.",
+      "stageConfirm_randomName": "Rastgele yap"
     }
   },
   "uk": {
@@ -4779,7 +4827,11 @@
           "options_mobile_faq": "PMF Mòbil",
           "options_open": "Obre",
           "dlc_store_unsupported": "La botiga de DLC no és compatible amb aquest dispositiu, ja que el joc no s'ha descarregat de la Google Play Store.",
-          "options_screenShake": "Sacsejada en disparar"
+          "options_screenShake": "Sacsejada en disparar",
+          "stageConfirm_randomEvents": "Esdeveniments\naleatoris",
+          "stageConfirm_randomLevels": "Pujada de nivell\naleatòria",
+          "stageConfirm_twitchIsOn": "Esdeveniments i pujades de nivell\ncontrolades pel\nxat de Twitch.",
+          "stageConfirm_randomName": "Aleatori"
       }
   }
 }
